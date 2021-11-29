@@ -1,0 +1,5 @@
+{
+        "baseUrl": "https://www.iprice.my/",
+        "coupons": "https://www.iprice.my/coupons",
+        "testFiles": "**/*.{feature,features,spec.js}"
+}
